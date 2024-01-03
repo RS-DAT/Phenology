@@ -1,0 +1,52 @@
+{
+  "creators": [
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Nattino, Francesco",
+      "orcid": "0000-0003-3286-0139"
+    },
+    {
+      "affiliation": "Institute of Geomatics, Vienna BOKU",
+      "name": "Izquierdo-Verdiguier, Emma",
+      "orcid": "0000-0003-2179-1262"
+    },
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Chandramouli, Pranav",
+      "orcid": "0000-0002-7896-2969"
+    },
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Grootes, Meiert W.",
+      "orcid": "0000-0002-5733-4795"
+    },
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Ku, Ou",
+      "orcid": "0000-0002-5373-5209"
+    },
+    {
+      "affiliation": "Netherlands eScience Center",
+      "name": "Alidoost, Fakhereh",
+      "orcid": "0000-0001-8407-6472"
+    },
+    {
+      "affiliation": "Faculty ITC - University of Twente",
+      "name": "Zurita-Milla, Raul",
+      "orcid": "0000-0002-1769-6310"
+    }
+  ],
+  "description": "This repository includes the notebooks employed to calculate and analyze a gridded phenological model, as computed from a set of daily meteorological variables. ",
+  "keywords": [
+    "phenology",
+    "spring onset",
+    "distributed computing",
+    "clustering"
+  ],
+  "license": {
+    "id": "Apache-2.0"
+  },
+  "publication_date": "2024-01-03",
+  "title": "Using RS-DAT to study continental-scale phenology at high-spatial resolution",
+  "version": "0.1.0"
+}

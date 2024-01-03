@@ -1,0 +1,51 @@
+# YAML 1.2
+---
+abstract: "This repository includes the notebooks employed to calculate and analyze a gridded phenological model, as computed from a set of daily meteorological variables. "
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Nattino
+    given-names: Francesco
+    orcid: https://orcid.org/0000-0003-3286-0139
+  -
+    affiliation: "Institute of Geomatics, Vienna BOKU"
+    family-names: Izquierdo-Verdiguier
+    given-names: Emma
+    orcid: https://orcid.org/0000-0003-2179-1262
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Chandramouli
+    given-names: Pranav
+    orcid: https://orcid.org/0000-0002-7896-2969
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Grootes
+    given-names: "Meiert W."
+    orcid: https://orcid.org/0000-0002-5733-4795
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Ku
+    given-names: Ou
+    orcid: https://orcid.org/0000-0002-5373-5209
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Alidoost
+    given-names: Fakhereh
+    orcid: https://orcid.org/0000-0001-8407-6472
+  - 
+    affiliation: "Faculty ITC - University of Twente"
+    family-names: Zurita-Milla
+    given-names: Raul
+    orcid: https://orcid.org/0000-0002-1769-6310
+cff-version: "1.2.0"
+date-released: 2024-01-03
+keywords:
+  - "phenology"
+  - "spring onset"
+  - "distributed computing"
+  - "clustering"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+title: "Using RS-DAT to study continental-scale phenology at high-spatial resolution"
+version: "0.1.0"
+...
