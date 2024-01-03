@@ -39,6 +39,7 @@ authors:
     orcid: https://orcid.org/0000-0002-1769-6310
 cff-version: "1.2.0"
 date-released: 2024-01-03
+doi: "10.5281/zenodo.10456729"
 keywords:
   - "phenology"
   - "spring onset"
